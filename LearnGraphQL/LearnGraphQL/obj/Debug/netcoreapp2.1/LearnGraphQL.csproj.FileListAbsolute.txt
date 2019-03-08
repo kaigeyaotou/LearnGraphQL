@@ -1,0 +1,14 @@
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\bin\Debug\netcoreapp2.1\LearnGraphQL.deps.json
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\bin\Debug\netcoreapp2.1\LearnGraphQL.runtimeconfig.json
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\bin\Debug\netcoreapp2.1\LearnGraphQL.runtimeconfig.dev.json
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\bin\Debug\netcoreapp2.1\LearnGraphQL.dll
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.csprojAssemblyReference.cache
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.csproj.CoreCompileInputs.cache
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.RazorAssemblyInfo.cache
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.RazorAssemblyInfo.cs
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.AssemblyInfoInputs.cache
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.AssemblyInfo.cs
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.RazorTargetAssemblyInfo.cache
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\bin\Debug\netcoreapp2.1\LearnGraphQL.pdb
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.dll
+E:\StudyFiles\LearnGraphQL\LearnGraphQL\LearnGraphQL\LearnGraphQL\obj\Debug\netcoreapp2.1\LearnGraphQL.pdb
